@@ -1,3 +1,4 @@
+# Colab/Jupyter ML notebooks
 ## René Parlange, MSc
 ### 📚 Machine Learning Course, PhD in Computer Science
 #### 🎓 Instructor: Juan Carlos Cuevas Tello, PhD
@@ -5,4 +6,3 @@
 
 🔗 [GitHub Repository](https://github.com/parlange/)
 
-# Colab/Jupyter ML notebooks
