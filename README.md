@@ -26,3 +26,5 @@
 - [rbm_tf.ipynb](https://github.com/parlange/ml-notebooks/blob/main/rbm_tf.ipynb)
 - [wine_ablation_hidden_layers_units_tensorboard.ipynb](https://github.com/parlange/ml-notebooks/blob/main/wine_ablation_hidden_layers_units_tensorboard.ipynb)
 - [wine_bayesian_neural_networks.ipynb](https://github.com/parlange/ml-notebooks/blob/main/wine_bayesian_neural_networks.ipynb)
+- [svm_dnn_wine_iris_mnist.ipynb](https://github.com/parlange/ml-notebooks/blob/main/svm_dnn_wine_iris_mnist.ipynb)
+
