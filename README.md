@@ -30,5 +30,6 @@
 
 #### External notebooks
 
-- [PNN.ipynb](https://github.com/verowulf/PNN/blob/master/PNN.ipynb)
+- Probabilistic Neural Networks (PNN): [PNN.ipynb](https://github.com/verowulf/PNN/blob/master/PNN.ipynb)
+- General Regression Neural Network (GRNN): [pyGRNN.ipynb](https://github.com/federhub/pyGRNN)
 
