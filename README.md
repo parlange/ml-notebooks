@@ -28,3 +28,7 @@
 - [wine_bayesian_neural_networks.ipynb](https://github.com/parlange/ml-notebooks/blob/main/wine_bayesian_neural_networks.ipynb)
 - [svm_dnn_wine_iris_mnist.ipynb](https://github.com/parlange/ml-notebooks/blob/main/svm_dnn_wine_iris_mnist.ipynb)
 
+#### External notebooks
+
+- [PNN.ipynb](https://github.com/verowulf/PNN/blob/master/PNN.ipynb)
+
